@@ -1,0 +1,1 @@
+# Perbandingan-Linear-vs-random
