@@ -1,8 +1,3 @@
-Sip, kalau project ini mau kamu taruh di GitHub, kamu bisa bikin **README.md** biar terlihat rapi dan jelas.
-Berikut contoh isi README untuk project prediksi penjualan kopi dengan **Linear Regression** dan **Random Forest**:
-
----
-
 # ☕ Coffee Sales Prediction with Machine Learning
 
 ## 📌 Project Overview
